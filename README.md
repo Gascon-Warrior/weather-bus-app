@@ -14,4 +14,4 @@ This is a simple weather application that fetches and displays weather informati
   ### Clone the repository to your local machine.
     git clone git@github.com:Gascon-Warrior/weather-bus-app.git
   ### Enter the name of the city in city.json for which you want to see the weather information.  
-  ### The weather information for the selected city will be displayed.
+  ### The weather information for the selected city will be displayed and refreshed every hour.
