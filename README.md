@@ -3,7 +3,6 @@ This is a simple weather application that fetches and displays weather informati
 
 ## Features
   Display current weather information including temperature, humidity, and wind speed.
-  Display the minimum and maximum temperature for the day.
   Fetch weather data based on the selected city.
   
 ## Technologies Used
