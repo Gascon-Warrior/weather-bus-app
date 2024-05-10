@@ -30,4 +30,4 @@ setInterval(function() {
     requete.open("GET", "Json/conf.json");
     requete.send();
   }
-}, 300000);
+}, 3600000);
